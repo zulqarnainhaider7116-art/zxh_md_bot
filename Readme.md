@@ -65,6 +65,7 @@ Step 2: Clone Repo & Setup
 
 
 https://github.com/zulqarnainhaider7116-art/zxh_md_bot.git
+cd zxh_md_bot
 termux-storage-setup
 ```
 Step 3: Install Node Modules

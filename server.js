@@ -57,4 +57,4 @@ try {
     require('./index');  // یہ آپ کے موجودہ bot کو چلائے گا (اگر اس میں کوئی لوپ نہ ہو)
 } catch(e) {
     console.log('Main bot not loaded separately, will run in background');
-      }
+}
